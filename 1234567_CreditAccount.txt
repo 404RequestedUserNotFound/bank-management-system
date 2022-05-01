@@ -1,0 +1,7 @@
+CREDIT Account Created
+Account Number: 1234567
+Name:Safin
+Date of Birth: 13-04-1998
+Phone Number:0177777777
+Nominee Name :Zakir
+Balance:10000.0
